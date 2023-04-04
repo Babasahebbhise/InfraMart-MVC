@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\bin\Debug\net7.0\Pratice.exe
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\bin\Debug\net7.0\Pratice.deps.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\bin\Debug\net7.0\Pratice.runtimeconfig.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\bin\Debug\net7.0\Pratice.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\bin\Debug\net7.0\Pratice.pdb
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.AssemblyInfo.cs
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\refint\Pratice.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.pdb
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\Pratice.genruntimeconfig.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Pratice\obj\Debug\net7.0\ref\Pratice.dll
